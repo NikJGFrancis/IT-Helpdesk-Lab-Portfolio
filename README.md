@@ -19,17 +19,17 @@ TechnoFlow Solutions - IT Consulting Firm
 
 Azure Portal Dashboard
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Azure%20Portal%20Dashboard.png
-Successfully accessed Azure Portal
+- Successfully accessed Azure Portal
 
 Entra ID Overview
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Entra%20ID%20Overview.png
-Azure Active Directory tenant configured for TechVista Solutions
+- Azure Active Directory tenant configured for TechVista Solutions
 
 2. User Account Management
 
 Created 9 Employee Accounts
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/All%20Users%20List.png
-Complete user directory spanning all departments with consistent naming
+- Complete user directory spanning all departments with consistent naming
 
 Key Actions Performed:
 - Created 10 user accounts with proper attributes
@@ -41,15 +41,15 @@ Key Actions Performed:
 
 All Security Groups
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/List%20of%20all%20created%20groups.png
-8 security groups created for department and role-based access control
+- 8 security groups created for department and role-based access control
 
 IT Department Members
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/IT-Department%20Group%20Showing%20Members.png
-IT-Department group members
+- IT-Department group members
 
 Managers Group
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Managers%20Group%20Showing%20Members.png
-Cross-departmental managers group for elevated permissions
+- Cross-departmental managers group for elevated permissions
 
 Key Actions Performed:
 - Created 8 security groups
@@ -63,7 +63,7 @@ Scenario: User Robert Williams unable to access email - forgot password
 
 Password Reset Process
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Password%20reset%20confirmation%20with%20temp%20password%20visible.png
-Generated temporary password via Azure Entra ID admin center
+- Generated temporary password via Azure Entra ID admin center
 
 Resolution Steps:
 1. Verified user identity via security questions
@@ -77,11 +77,11 @@ Resolution Steps:
 
 Account Disabled - Employee Termination
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Robert%20Williams%20account%20%22Account%20enabled%22%20unchecked.png
-Robert Williams account disabled immediately upon termination notice
+- Robert Williams account disabled immediately upon termination notice
 
 Account Re-enabled - False Alarm
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Robert%20Williams%20account%20re-enabled.png
-Account restored after termination was cancelled by HR
+- Account restored after termination was cancelled by HR
 
 Key Actions Performed:
 - Immediate account lockout for security
@@ -93,15 +93,15 @@ Key Actions Performed:
 
 Deleted User
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Deleted%20users%20page%20showing%20Jennifer%20Garcia.png
-Jennifer Garcia moved to deleted users - 30-day retention period active
+- Jennifer Garcia moved to deleted users - 30-day retention period active
 
 User List After Deletion
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Active%20users%20list%20showing%20Jennifer%20is%20gone.png
-Jennifer Garcia no longer appears in active directory
+- Jennifer Garcia no longer appears in active directory
 
 User Restored
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Jennifer%20Garcia%20restored%20and%20back%20in%20active%20users.png
-Jennifer Garcia successfully restored after accidental deletion
+- Jennifer Garcia successfully restored after accidental deletion
 
 Key Learning:
 - Deleted users retained for 30 days
@@ -112,18 +112,18 @@ Key Learning:
 
 Bulk User Creation Results
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Bulk%20Operation%20Results.png
-Successfully created 3 users simultaneously via CSV import
+- Successfully created 3 users simultaneously via CSV import
 
 Use Case: Onboarding multiple new hires efficiently
 
 8. Intentional Break & Fix Exercise
 Removed Manager from Department Group
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/IT-Department%20without%20manager.png
-IT-Department group missing manager John Davis - intentional misconfiguration
+- IT-Department group missing manager John Davis - intentional misconfiguration
 
 Manager Restored
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/John%20Davis%20Restored%20to%20group.png
-John Davis re-added to IT-Department - access restored
+- John Davis re-added to IT-Department - access restored
 
 Purpose: Practice identifying and correcting access issues
 
@@ -131,7 +131,7 @@ Purpose: Practice identifying and correcting access issues
 
 Audit Logs - Group Changes
 - https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Audit%20Log%20Showing%20Your%20Group%20Modifications.png
-Complete audit trail of all group membership modifications made during lab
+- Complete audit trail of all group membership modifications made during lab
 
 Compliance Value:
 - Every action timestamped
