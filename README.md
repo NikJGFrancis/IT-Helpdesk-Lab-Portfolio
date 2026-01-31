@@ -18,17 +18,17 @@ TechnoFlow Solutions - IT Consulting Firm
 1. Initial Setup
 
 Azure Portal Dashboard
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Azure%20Portal%20Dashboard.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Azure%20Portal%20Dashboard.png
 Successfully accessed Azure Portal
 
 Entra ID Overview
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Entra%20ID%20Overview.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Entra%20ID%20Overview.png
 Azure Active Directory tenant configured for TechVista Solutions
 
 2. User Account Management
 
 Created 9 Employee Accounts
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/All%20Users%20List.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/All%20Users%20List.png
 Complete user directory spanning all departments with consistent naming
 
 Key Actions Performed:
@@ -40,15 +40,15 @@ Key Actions Performed:
 3. Security Group Organization
 
 All Security Groups
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/List%20of%20all%20created%20groups.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/List%20of%20all%20created%20groups.png
 8 security groups created for department and role-based access control
 
 IT Department Members
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/IT-Department%20Group%20Showing%20Members.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/IT-Department%20Group%20Showing%20Members.png
 IT-Department group members
 
 Managers Group
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Managers%20Group%20Showing%20Members.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Managers%20Group%20Showing%20Members.png
 Cross-departmental managers group for elevated permissions
 
 Key Actions Performed:
@@ -62,7 +62,7 @@ Key Actions Performed:
 Scenario: User Robert Williams unable to access email - forgot password
 
 Password Reset Process
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Password%20reset%20confirmation%20with%20temp%20password%20visible.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Password%20reset%20confirmation%20with%20temp%20password%20visible.png
 Generated temporary password via Azure Entra ID admin center
 
 Resolution Steps:
@@ -76,11 +76,11 @@ Resolution Steps:
 5. Account Disable/Enable
 
 Account Disabled - Employee Termination
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Robert%20Williams%20account%20%22Account%20enabled%22%20unchecked.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Robert%20Williams%20account%20%22Account%20enabled%22%20unchecked.png
 Robert Williams account disabled immediately upon termination notice
 
 Account Re-enabled - False Alarm
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Robert%20Williams%20account%20re-enabled.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Robert%20Williams%20account%20re-enabled.png
 Account restored after termination was cancelled by HR
 
 Key Actions Performed:
@@ -92,15 +92,15 @@ Key Actions Performed:
 6. Delete and Restore Users
 
 Deleted User
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Deleted%20users%20page%20showing%20Jennifer%20Garcia.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Deleted%20users%20page%20showing%20Jennifer%20Garcia.png
 Jennifer Garcia moved to deleted users - 30-day retention period active
 
 User List After Deletion
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Active%20users%20list%20showing%20Jennifer%20is%20gone.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Active%20users%20list%20showing%20Jennifer%20is%20gone.png
 Jennifer Garcia no longer appears in active directory
 
 User Restored
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Jennifer%20Garcia%20restored%20and%20back%20in%20active%20users.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Jennifer%20Garcia%20restored%20and%20back%20in%20active%20users.png
 Jennifer Garcia successfully restored after accidental deletion
 
 Key Learning:
@@ -111,18 +111,18 @@ Key Learning:
 7. Bulk Operations
 
 Bulk User Creation Results
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Bulk%20Operation%20Results.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Bulk%20Operation%20Results.png
 Successfully created 3 users simultaneously via CSV import
 
 Use Case: Onboarding multiple new hires efficiently
 
 8. Intentional Break & Fix Exercise
 Removed Manager from Department Group
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/IT-Department%20without%20manager.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/IT-Department%20without%20manager.png
 IT-Department group missing manager John Davis - intentional misconfiguration
 
 Manager Restored
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/John%20Davis%20Restored%20to%20group.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/John%20Davis%20Restored%20to%20group.png
 John Davis re-added to IT-Department - access restored
 
 Purpose: Practice identifying and correcting access issues
@@ -130,7 +130,7 @@ Purpose: Practice identifying and correcting access issues
 9. Audit Trail Review
 
 Audit Logs - Group Changes
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Audit%20Log%20Showing%20Your%20Group%20Modifications.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Audit%20Log%20Showing%20Your%20Group%20Modifications.png
 Complete audit trail of all group membership modifications made during lab
 
 Compliance Value:
@@ -144,12 +144,12 @@ Lab 2: Jira Ticketing System
 Workspace Setup
 
 Jira Service Management Dashboard
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Jira%20Space%20Dashboard.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Jira%20Space%20Dashboard.png
 
 Ticket #1: Password Reset Request
 
 Ticket Created
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%231%20Created.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%231%20Created.png
 
 Details:
 - Type: Service Request
@@ -159,7 +159,8 @@ Details:
 - Impact: Unable to access work applications
 
 Ticket Resolved with Professional Notes
-(https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20Ticket%https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20Ticket%20with%20notes%20Part%202(Password%20Reset).png20Part%201(Password%20Reset).png)
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20Ticket%
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20Ticket%20with%20notes%20Part%202(Password%20Reset).png20Part%201(Password%20Reset).png
 
 Resolution Notes:
 Actions Taken:
@@ -174,7 +175,7 @@ Actions Taken:
 Ticket #2: New Hire Setup
 
 Ticket Created
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%232%20Created.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%232%20Created.png
 
 Details:
 - Employee: Alex Rivera
@@ -192,13 +193,13 @@ Checklist:
 - Generate temporary password
 
 Ticket Resolved
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/New%20Hire%20Setup%20(Part%201).png
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/New%20Hire%20Setup%20with%20Notes%20(Part%202).png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/New%20Hire%20Setup%20(Part%201).png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/New%20Hire%20Setup%20with%20Notes%20(Part%202).png
 
 Ticket #3: Account Lockout
 
 Ticket Created
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%233%20Created.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%233%20Created.png
 
 Details:
 - User: Mike Johnson
@@ -207,8 +208,8 @@ Details:
 - Attempts: 6 failed logins
 
 Ticket Resolved
-(https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Lockout%20Ticket%20Resolved%20(Part%201).png)
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Lockout%20Ticket%20Resolved%20with%20notes%20(Part%202).png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Lockout%20Ticket%20Resolved%20(Part%201).png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Lockout%20Ticket%20Resolved%20with%20notes%20(Part%202).png
 
 Resolution Notes:
 Investigation:
@@ -228,7 +229,7 @@ Follow-up:
 Ticket #4: Group Access Modification
 
 Ticket Created
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%234%20Created.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%234%20Created.png
 
 Details:
 - User: Sarah Martinez
@@ -236,13 +237,13 @@ Details:
 - Approval: John Davis (IT Manager)
 
 Ticket Resolved
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Group%20Access%20Ticket%20Resolved%20(Part%201).png
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Group%20Access%20Ticket%20Resolved%20(Part%202).png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Group%20Access%20Ticket%20Resolved%20(Part%201).png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Group%20Access%20Ticket%20Resolved%20(Part%202).png
 
 Ticket #5: Account Termination
 
 Ticket Created
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%235%20Created.png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%235%20Created.png
 
 Details:
 - Employee: Jennifer Garcia
@@ -259,8 +260,8 @@ Immediate Actions Required:
 - 30-day data retention
 
 Ticket Resolved
-(https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Termination%20Ticket%20(Part%201).png)
-https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Termination%20Ticket%20Resolved%20(Part%202).png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Termination%20Ticket%20(Part%201).png
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Termination%20Ticket%20Resolved%20(Part%202).png
 
 Resolution Notes:
 CRITICAL - Employee Termination Process
@@ -288,7 +289,7 @@ Status: COMPLETED
 
 Ticket Queue Overview
 Resolved Tickets
-(https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20and%20Closed%20Tickets.png)
+- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20and%20Closed%20Tickets.png
 
 Skills Demonstrated
 
@@ -336,7 +337,3 @@ Nikolas Francis
 - Email: nikfrancisbrand@gmail.com
 - Portfolio: https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio
 
-
----
-
-**⭐ If you found this helpful, please star this repository!**
