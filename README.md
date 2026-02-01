@@ -10,7 +10,7 @@ This portfolio demonstrates practical IT Help Desk skills using:
 Lab 1: Azure Entra ID Administration
 
 Company Scenario
-TechnoFlow Solutions - IT Consulting Firm
+TechFlow Solutions - IT Consulting Firm
 - 10+ employees across multiple departments
 - Hybrid cloud infrastructure
 - Enterprise security requirements
