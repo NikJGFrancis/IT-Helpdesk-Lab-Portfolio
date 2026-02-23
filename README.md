@@ -18,7 +18,7 @@ TechFlow Solutions - IT Consulting Firm
 1. Initial Setup
 
 Azure Portal Dashboard
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/abfc2ea327caf6c8c713946a2c73bd322ba2f015/Azure%20Directory%20Entra%20ID%20Lab/Azure%20Portal%20Dashboard.png
+- ![Azure Directory](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/abfc2ea327caf6c8c713946a2c73bd322ba2f015/Azure%20Directory%20Entra%20ID%20Lab/Azure%20Portal%20Dashboard.png)
 - Successfully accessed Azure Portal
 
 Entra ID Overview
