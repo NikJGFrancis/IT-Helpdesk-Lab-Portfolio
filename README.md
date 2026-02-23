@@ -22,13 +22,13 @@ Azure Portal Dashboard
 - Successfully accessed Azure Portal
 
 Entra ID Overview
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Entra%20ID%20Overview%20page%20showing%20tenant%20name.png
+- ![Entra ID Overview](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Entra%20ID%20Overview%20page%20showing%20tenant%20name.png)
 - Azure Active Directory tenant configured for TechFlow Solutions
 
 2. User Account Management
 
 Created 10 Employee Accounts
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/All%20Users%20List%20Showing%2010%20Users.png
+- ![All Users List](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/All%20Users%20List%20Showing%2010%20Users.png)
 - Complete user directory spanning all departments with consistent naming
 
 Key Actions Performed:
@@ -40,15 +40,15 @@ Key Actions Performed:
 3. Security Group Organization
 
 All Security Groups
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Groups%20Overview%20showing%20all%204%20groups%20created.png
+- ![Security Groups](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Groups%20Overview%20showing%20all%204%20groups%20created.png)
 - 4 security groups created for department and role-based access control
 
 IT Department Members
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/IT%20Department%20Showing%20Members.png
+- ![IT Department](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/IT%20Department%20Showing%20Members.png)
 - IT-Department group members
 
 Sales Team Members
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Sales_Team%20Showing%20Members.png
+- ![Sales Team](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Sales_Team%20Showing%20Members.png)
 - Sales-Team group members
 
 Key Actions Performed:
@@ -62,7 +62,7 @@ Key Actions Performed:
 Scenario: User Sarah Johnson unable to access email - forgot password
 
 Password Reset Process
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Password%20Reset%20Confirmation%20with%20new%20password%20visible.png
+- ![Password Reset](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Password%20Reset%20Confirmation%20with%20new%20password%20visible.png)
 - Generated temporary password via Azure Entra ID admin center
 
 Resolution Steps:
@@ -76,11 +76,11 @@ Resolution Steps:
 5. Account Disable/Enable
 
 Account Disabled - Employee Termination
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Michael%20Chen's%20Account%20Disabled.png
+- ![Account Disabled](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Michael%20Chen's%20Account%20Disabled.png)
 - Michael Chen account disabled immediately upon termination notice
 
 Account Re-enabled - False Alarm
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Michael%20Chen's%20Profile%20Showing%20%22Account%20enabled%3A%20Yes%22.png
+- ![Account Re-enabled](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Michael%20Chen's%20Profile%20Showing%20%22Account%20enabled%3A%20Yes%22.png)
 - Account restored after termination was cancelled by HR
 
 Key Actions Performed:
@@ -92,15 +92,15 @@ Key Actions Performed:
 6. Delete and Restore Users
 
 Deleted User
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Delete%20Confirmation%20Dialog.png
+- ![Deleted User](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Delete%20Confirmation%20Dialog.png)
 - Robert Taylor moved to deleted users - 30-day retention period active
 
 Deleted Users List
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Deleted%20Users%20list%20showing%20Robert%20Taylor.png
+- ![Deleted Users List](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Deleted%20Users%20list%20showing%20Robert%20Taylor.png)
 - Robert Taylor no longer appears in active directory
 
 User Restored
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/All%20Users%20list%20showing%20Robert%20Taylor%20Restored.png
+- ![User Restored](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/All%20Users%20list%20showing%20Robert%20Taylor%20Restored.png)
 - Robert Taylor successfully restored after accidental deletion
 
 Key Learning:
@@ -111,7 +111,7 @@ Key Learning:
 7. Bulk Operations
 
 Bulk User Creation Results
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Bulk%20Operation%20Results.png
+- ![Bulk User Creation](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/Bulk%20Operation%20Results.png)
 - Successfully created 3 users simultaneously via CSV import
 
 Use Case: Onboarding multiple new hires efficiently
