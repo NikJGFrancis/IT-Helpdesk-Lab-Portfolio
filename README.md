@@ -118,11 +118,11 @@ Use Case: Onboarding multiple new hires efficiently
 
 8. Intentional Break & Fix Exercise
 Removed Manager from Department Group
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/IT-Department%20without%20manager.png
+- ![Manager Removal](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/IT-Department%20without%20manager.png)
 - IT-Department group missing manager John Davis - intentional misconfiguration
 
 Manager Restored
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/John%20Davis%20Restored%20to%20group.png
+- ![Manager Restored](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Azure%20Active%20Directory%20Entra%20ID/John%20Davis%20Restored%20to%20group.png)
 - John Davis re-added to IT-Department - access restored
 
 Purpose: Practice identifying and correcting access issues
@@ -130,7 +130,7 @@ Purpose: Practice identifying and correcting access issues
 9. Audit Trail Review
 
 Audit Logs
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Audit%20logs%20showing%20activities.png
+- ![Audit Logs](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/a6e30846a016dce249b00cce461dbd4c5ffdcc8b/Azure%20Directory%20Entra%20ID%20Lab/Audit%20logs%20showing%20activities.png)
 - Complete audit trail in the last 24 hours
 
 Compliance Value:
@@ -144,12 +144,12 @@ Lab 2: Jira Ticketing System
 Workspace Setup
 
 Jira Service Management Dashboard
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Jira%20Space%20Dashboard.png
+- ![Jira Dashborad](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Jira%20Space%20Dashboard.png)
 
 Ticket #1: Password Reset Request
 
 Ticket Created
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%231%20Created.png
+- ![Ticket Created](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%231%20Created.png)
 
 Details:
 - Type: Service Request
@@ -159,8 +159,8 @@ Details:
 - Impact: Unable to access work applications
 
 Ticket Resolved with Professional Notes
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20Ticket%
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20Ticket%20with%20notes%20Part%202(Password%20Reset).png20Part%201(Password%20Reset).png
+- ![Resolved Ticket](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20Ticket%.png)
+- ![Password Reset](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20Ticket%20with%20notes%20Part%202(Password%20Reset).png20Part%201(Password%20Reset).png)
 
 Resolution Notes:
 Actions Taken:
@@ -175,7 +175,7 @@ Actions Taken:
 Ticket #2: New Hire Setup
 
 Ticket Created
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%232%20Created.png
+- ![Ticket Created](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%232%20Created.png)
 
 Details:
 - Employee: Alex Rivera
@@ -193,13 +193,13 @@ Checklist:
 - Generate temporary password
 
 Ticket Resolved
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/New%20Hire%20Setup%20(Part%201).png
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/New%20Hire%20Setup%20with%20Notes%20(Part%202).png
+- ![New Hire Setup](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/New%20Hire%20Setup%20(Part%201).png)
+- ![New Hire Setup](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/New%20Hire%20Setup%20with%20Notes%20(Part%202).png)
 
 Ticket #3: Account Lockout
 
 Ticket Created
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%233%20Created.png
+- ![Ticket Created](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%233%20Created.png)
 
 Details:
 - User: Mike Johnson
@@ -208,8 +208,8 @@ Details:
 - Attempts: 6 failed logins
 
 Ticket Resolved
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Lockout%20Ticket%20Resolved%20(Part%201).png
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Lockout%20Ticket%20Resolved%20with%20notes%20(Part%202).png
+- ![Lockout Ticket Resolved](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Lockout%20Ticket%20Resolved%20(Part%201).png)
+- ![Lockout Ticket Resolved](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Lockout%20Ticket%20Resolved%20with%20notes%20(Part%202).png)
 
 Resolution Notes:
 Investigation:
@@ -229,7 +229,7 @@ Follow-up:
 Ticket #4: Group Access Modification
 
 Ticket Created
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%234%20Created.png
+- ![Ticket Created](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%234%20Created.png)
 
 Details:
 - User: Sarah Martinez
@@ -237,13 +237,13 @@ Details:
 - Approval: John Davis (IT Manager)
 
 Ticket Resolved
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Group%20Access%20Ticket%20Resolved%20(Part%201).png
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Group%20Access%20Ticket%20Resolved%20(Part%202).png
+- ![Ticket Resolved](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Group%20Access%20Ticket%20Resolved%20(Part%201).png)
+- ![Ticket Resolved](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Group%20Access%20Ticket%20Resolved%20(Part%202).png)
 
 Ticket #5: Account Termination
 
 Ticket Created
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%235%20Created.png
+- ![Ticket Created](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Ticket%20%235%20Created.png)
 
 Details:
 - Employee: Jennifer Garcia
@@ -260,8 +260,8 @@ Immediate Actions Required:
 - 30-day data retention
 
 Ticket Resolved
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Termination%20Ticket%20(Part%201).png
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Termination%20Ticket%20Resolved%20(Part%202).png
+- ![Termination Ticket](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Termination%20Ticket%20(Part%201).png)
+- ![Termination Ticket](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Termination%20Ticket%20Resolved%20(Part%202).png)
 
 Resolution Notes:
 CRITICAL - Employee Termination Process
@@ -289,7 +289,7 @@ Status: COMPLETED
 
 Ticket Queue Overview
 Resolved Tickets
-- https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20and%20Closed%20Tickets.png
+- ![Resolved and Closed](https://github.com/NikJGFrancis/IT-Helpdesk-Lab-Portfolio/blob/c7b812cd2fb31f05cfe595fff88e9cb70f68537d/Jira%20Ticketing%20System/Resolved%20and%20Closed%20Tickets.png)
 
 Skills Demonstrated
 
